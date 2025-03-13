@@ -1,4 +1,4 @@
-# Описание проекта
+[Проект в Jupiter Notebook](https://github.com/DarsaGakaev/Practicum_projects/blob/main/milking_cows/cows.ipynb)
 
 **Описание исследования:**
 
