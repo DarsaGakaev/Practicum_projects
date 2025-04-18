@@ -1,4 +1,4 @@
-[Проект в Jupiter Notebook](https://github.com/DarsaGakaev/Practicum_projects/blob/main/tf-idf/tf-idf.ipynb)
+[Проект в Jupyter Notebook](https://github.com/DarsaGakaev/Practicum_projects/blob/main/tf-idf/tf-idf.ipynb)
 
 # Описание проекта
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. В связи с этим необходимо:
