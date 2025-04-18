@@ -6,13 +6,13 @@
 создать модель для классификации комментариев на позитивные и негативные (метрика качества F1 не меньше 0.75).
 
 # Навыки и инструменты
-WordNetLemmatizer
-TfidfVectorizer
+WordNetLemmatizer<br>
+TfidfVectorizer<br>
 
 # Общий вывод
 Было проведено обучение и определена лучшая модель из четырех ниже:
 
-LogisticRegression;
-RandomForestClassifier;
-LinearSVC;
-MultinomialNB.
+LogisticRegression;<br>
+RandomForestClassifier;<br>
+LinearSVC;<br>
+MultinomialNB.<br>
